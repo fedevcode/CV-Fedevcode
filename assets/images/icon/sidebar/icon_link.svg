@@ -1,0 +1,6 @@
+<svg id="icon_link" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="icon_zone" width="23" height="23" fill="rgba(255,255,255,0)"/>
+  <path id="Trazado_24" data-name="Trazado 24" d="M8,12h7.667" transform="translate(-0.333 -0.5)" fill="none" stroke="#1e293b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"/>
+  <path id="Trazado_25" data-name="Trazado 25" d="M9.336,15.646H7.073A4.073,4.073,0,0,1,3,11.573H3A4.073,4.073,0,0,1,7.073,7.5H9.336" transform="translate(-0.125 -0.313)" fill="none" stroke="#1e293b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"/>
+  <path id="Trazado_26" data-name="Trazado 26" d="M14.389,15.646h2.263a4.073,4.073,0,0,0,4.073-4.073h0A4.073,4.073,0,0,0,16.652,7.5H14.389" transform="translate(-0.6 -0.313)" fill="none" stroke="#1e293b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"/>
+</svg>
