@@ -1,0 +1,87 @@
+// CARD 1
+@keyframes progressBar{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 218px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 2
+@keyframes progressBar2{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 214px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 3
+@keyframes progressBar3{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 156px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 4
+@keyframes progressBar4{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 102px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 5
+@keyframes progressBar5{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 55px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 6
+@keyframes progressBar6{
+    0%{
+      width: 0%;
+    }
+    100%{
+        width: 67px;
+        background-color: map-get($colors, '2');
+    }
+};
+
+// CARD 7
+@keyframes progressBar7{
+  0%{
+    width: 0%;
+  }
+  100%{
+      width: 79px;
+      background-color: map-get($colors, '2');
+  }
+};
+
+// CARD 8
+@keyframes progressBar8{
+  0%{
+    width: 0%;
+  }
+  100%{
+      width: 63px;
+      background-color: map-get($colors, '2');
+  }
+};
